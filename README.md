@@ -5,8 +5,8 @@ I'm a passionate Data Engineer specializing in building scalable data pipelines,
 ## 🌱 About Me
 - Recently completed a Master of Science in Data Science at Indiana University.
 - Over 2 years of experience in data engineering, focusing on building and optimizing data pipelines using AWS, GCP, and Snowflake.
-- Proficient in programming languages such as Python, Java, and SQL, with hands-on experience in visualization tools like Tableau and Power BI.
-- Enthusiastic about emerging technologies, machine learning, and big data analytics.
+- Proficient in programming languages such as Python, Java, and SQL, with hands-on experience in big data analytics like PySpark, Kafka and in visualization tools like Tableau and Power BI.
+- Enthusiastic about emerging technologies, machine learning, and Gen AI.
 
 ## 💼 Professional Experience
 - **Data Engineer**: Developed and maintained data pipelines with Docker and Airflow for processing and analyzing text data and metadata from book files.
@@ -19,9 +19,12 @@ I'm a passionate Data Engineer specializing in building scalable data pipelines,
 - **Concepts**: Data Engineering, Data Warehousing, ETL, Data Modeling, Machine Learning
 
 ## 📂 Projects
-- **Implicit Marginalia Project**: Developed a system for analyzing and extracting data from large datasets.
-- **Covid-19 Data Visualization**: Created interactive dashboards using Tableau to visualize the impact of the pandemic.
-- **RAG System**: Implemented a retrieval-augmented generation system for enhanced question answering.
+- **Reddit Data Engineering Pipeline**: Led the development of a robust data pipeline using Apache Airflow, Docker, and AWS, extracting data with Python and PRAW API for improved efficiency.
+- **Financial Data Streaming Pipeline**: Built a data ingestion pipeline using Docker, Kafka, and Spark, optimizing real-time data processing for financial analytics.
+- **Real-Time Food Delivery Data Analytics**: Developed a data processing pipeline using AWS Kinesis and PySpark Streaming, enhancing analysis capabilities through a QuickSight dashboard.
+- **CRNY Survey Data Analysis**: Analyzed survey data to explore guaranteed income's impact on artistic communities in New York, providing insights into demographics, enrollment, financial wellness, and COVID-19 effects.
+- **Global Football Transfer Market Analysis**: Conducted a comprehensive analysis of the football transfer market across the top 5 global leagues, examining financial trends and player transfer dynamics.
+
 
 ## 📫 Connect with Me
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/manohary) or through email at [nagamanohar07@gmail.com](mailto:nagamanohar07@gmail.com).
