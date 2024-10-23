@@ -4,7 +4,7 @@ I'm a passionate Data Engineer specializing in building scalable data pipelines,
 
 ## 🌱 About Me
 - Recently completed a Master of Science in Data Science at Indiana University.
-- Over 2 years of experience in data engineering, focusing on building and optimizing data pipelines using AWS, GCP, and Snowflake.
+- Nearly 2 years of experience in data engineering, focusing on building and optimizing data pipelines using AWS, GCP, and Snowflake.
 - Proficient in programming languages such as Python, Java, and SQL, with hands-on experience in big data analytics like PySpark, Kafka and in visualization tools like Tableau and Power BI.
 - Enthusiastic about emerging technologies, machine learning, and Gen AI.
 
