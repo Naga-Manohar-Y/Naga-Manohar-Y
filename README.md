@@ -4,7 +4,9 @@ I am a Data Engineer and Machine Learning practitioner passionate about building
 
 ## 🌱 About Me
 🎓 Master of Science in Data Science – Indiana University
+
 💼 2+ years of experience in Data Engineering, AI/ML, and Analytics
+
 🌟 Enthusiastic and practitioner in Generative AI, Large Language Models (LLMs), and Deep Learning
 
 ## 💼 Professional Experience
